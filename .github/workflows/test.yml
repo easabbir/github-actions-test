@@ -13,4 +13,4 @@ jobs:
             - name: Build the project
               run: yarn build
             - name: Setup finish
-              run: echo "hurray!!"
+              run: echo "hurray!!!"
